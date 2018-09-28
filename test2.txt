@@ -1,2 +1,1 @@
-start www.google.com
- 
+start https://www.google.gr/search?q=greece&rlz=1CDGOYI_enGR763GR763&oq=greece&aqs=chrome..69i57j69i60l3j69i65l2.1039j0j4&hl=el&sourceid=chrome-mobile&ie=UTF-8
